@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/diasridhan/diasridhan/main/banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dias Ridhan Maliki</h1>
 <h3 align="center">I am a Frontend Developer and IT Support.</h3>
-<img align="right" alt="banner" width="400" src="https://raw.githubusercontent.com/diasridhan/diasridhan/main/Programming-amico.png" /> 
+<img align="right" alt="banner" width="300" src="https://raw.githubusercontent.com/diasridhan/diasridhan/main/Programming-amico.png" /> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diasridhan&label=Profile%20views&color=0e75b6&style=flat" alt="diasridhan" /> </p>
