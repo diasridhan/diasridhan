@@ -1,4 +1,4 @@
-<img align="center" width="700" src="https://raw.githubusercontent.com/diasridhan/diasridhan/main/banner.jpg" /> 
+<img align="center" width="1000" src="https://raw.githubusercontent.com/diasridhan/diasridhan/main/banner.jpg" /> 
 <h1 align="center">Hi 👋, I'm Dias Ridhan Maliki</h1>
 <h3 align="center">I am a Frontend Developer and IT Support.</h3>
 <img align="right" width="350" src="https://raw.githubusercontent.com/diasridhan/diasridhan/main/Programming-amico.png" /> 
