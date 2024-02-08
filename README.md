@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/diasridhan/diasridhan/main/banner.jpg)
+[![MasterHead](https://raw.githubusercontent.com/diasridhan/diasridhan/main/banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dias Ridhan Maliki</h1>
 <h3 align="center">I am a Frontend Developer and IT Support.</h3>
 <img align="right" alt="banner" width="400" src="https://raw.githubusercontent.com/diasridhan/diasridhan/main/Programming-amico.png" /> 
